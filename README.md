@@ -1,4 +1,3 @@
-# fit2099-w8
-Week 8
+# FIT2099 Week 8
 
-Hello
+This is a line in the README.md file
